@@ -26,7 +26,7 @@ A curated list of my research papers and publications. For more details, visit m
 
 ## Journal Articles
 
-1. **Hyungjin Kim**, Seongwon Song, and Hyun Myung, “GP-ICP: Ground Plane-ICP for Mobile Robots,” IEEE Access, vol. 7, no. 1, pp. 76599-76610, Dec 2019. (SCIE) (video), (code), ([paper](journal/1. GP-ICP Ground Plane ICP for Mobile Robots.pdf))
+1. **Hyungjin Kim**, Seongwon Song, and Hyun Myung, “GP-ICP: Ground Plane-ICP for Mobile Robots,” IEEE Access, vol. 7, no. 1, pp. 76599-76610, Dec 2019. (SCIE) (video), (code), ([paper](https://github.com/hyungjinkim0508/cv/blob/main/journal/1.%20GP-ICP%20Ground%20Plane%20ICP%20for%20Mobile%20Robots.pdf)
 2. **Hyungjin Kim**, Bingbing Liu, Chi Yuan Goh, Serin Lee, and Hyun Myung, “Robust Vehicle Localization using Entropy-weighted Particle Filter-based Data Fusion of Vertical and Road Intensity Information for a Large Scale Urban Area,” IEEE RA-L (Robotics and Automation Letters), vol. 2, no. 3, pp. 1518-1524, July 2017.
 3. **Hyungjin Kim**, Donghwa Lee, Taekjun Oh, and Hyun Myung, “A Probabilistic Feature Map-based Localization System Using a Monocular Camera”, Sensors, Agu. 2015. (SCIE)
 4. Donghwa Lee, **Hyungjin Kim**, Sungwook Jung, and Hyun Myung, “Depth-Hybrid Speeded-Up Robust Features (DH-SURF) for Real-Time RGB-D SLAM,” Advances in Robotics Research (ARR), vol.2, no.1, pp.33-44, Mar. 2018.
