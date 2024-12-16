@@ -1,6 +1,6 @@
 # Publications
 
-A curated list of my research papers and publications. For more details, visit my [Google Scholar profile]([https://scholar.google.com](https://scholar.google.com/citations?user=EHyc6_EAAAAJ&hl=en).
+A curated list of my research papers and publications. For more details, visit my [Google Scholar profile](https://scholar.google.com/citations?user=EHyc6_EAAAAJ&hl=en).
 
 ---
 
